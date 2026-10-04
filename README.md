@@ -41,19 +41,21 @@ an interactive Power BI dashboard to support data-driven decisions.
 High-level KPIs with week-over-week changes, revenue trends, and 
 booking distribution by room class and platform.
 
-![Executive Summary](images/01_executive_summary.png)
+<img width="1291" height="733" alt="01_executive_summary" src="https://github.com/user-attachments/assets/b5cbfd61-605b-4df7-8cc2-5fe815b15842" />
+
 
 ### 2. Revenue & KPI Trends
 Weekly WoW performance comparison across ADR, RevPAR, Occupancy, DSRN, 
 and Realisation. Property-level KPI breakdown.
 
-![Revenue & KPI Trends](images/02_revenue_trends.png)
+<img width="1298" height="727" alt="02_revenue_trends" src="https://github.com/user-attachments/assets/771c992e-fb51-4f90-982d-6645c621e8ab" />
+
 
 ### 3. Operations & Guest Behavior
 Cancellation and no-show analysis by platform and room class, plus a 
 property operational scorecard.
 
-![Operations](images/03_operations.png)
+<img width="1294" height="729" alt="03_operations" src="https://github.com/user-attachments/assets/7df0ddf5-e1bf-433b-8f17-2b379f8a7fa8" />
 
 ## 🔍 Key Insights
 
