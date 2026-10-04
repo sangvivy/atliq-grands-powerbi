@@ -57,6 +57,14 @@ property operational scorecard.
 
 <img width="1294" height="729" alt="03_operations" src="https://github.com/user-attachments/assets/7df0ddf5-e1bf-433b-8f17-2b379f8a7fa8" />
 
+### 4. Capacity & Room Metrics
+A focused page covering operational capacity measures including total 
+capacity, room nights (booked, sellable, utilized), successful bookings, 
+and no-shows.
+
+<img width="1288" height="727" alt="06_Capacity" src="https://github.com/user-attachments/assets/e6e1b26b-13a9-40df-a0d0-036835618934" />
+
+
 ## 🔍 Key Insights
 
 1. **Cancellation rate is 24.83%** across all booking platforms — 
