@@ -92,5 +92,3 @@ property operational scorecard.
 
 ---
 
-*Project completed as part of the Codebasics End-to-End Data Analyst 
-Portfolio Challenge.*
